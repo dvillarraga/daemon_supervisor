@@ -1,0 +1,14 @@
+# INPUT: start("3", 1.2, 5 , 2)
+
+01:30:04,110 root WARNING Going to Recovery Process
+01:30:04,111 root INFO Starting Process3
+01:30:05,187 root WARNING The attempt to start the process failed.
+01:30:05,189 root INFO Starting Process3
+01:30:06,260 root WARNING The attempt to start the process failed.
+01:30:06,262 root INFO Starting Process3
+01:30:07,333 root WARNING The attempt to start the process failed.
+01:30:07,335 root INFO Starting Process3
+01:30:08,408 root WARNING The attempt to start the process failed.
+01:30:08,410 root INFO Starting Process3
+01:30:09,481 root WARNING The attempt to start the process failed.
+01:30:09,481 root ERROR Process could not be started

@@ -1,0 +1,19 @@
+# INPUT start("4", 2, 2 , 2)
+
+01:27:22,209 root WARNING Going to Recovery Process
+01:27:22,210 root INFO Starting Process4
+01:27:24,213 root INFO Process Running :)
+01:27:26,217 root INFO Process Running :)
+01:27:28,221 root INFO Process Running :)
+01:27:30,224 root INFO Process Running :)
+01:27:32,228 root INFO Process Running :)
+01:27:34,233 root WARNING Going to Recovery Process
+01:27:34,233 root INFO Starting Process4
+01:27:36,237 root INFO Process Running :)
+01:27:38,239 root INFO Process Running :)
+01:27:40,243 root INFO Process Running :)
+01:27:42,247 root INFO Process Running :)
+01:27:44,251 root INFO Process Running :)
+01:27:46,254 root WARNING Going to Recovery Process
+01:27:46,256 root INFO Starting Process4
+01:27:48,261 root INFO Process Running :)
